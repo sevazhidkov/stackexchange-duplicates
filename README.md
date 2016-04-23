@@ -5,6 +5,8 @@ finds questions with biggest amout of duplicates.
 It can be useful in analytics: such questions define most interesting top_duplicated_posts
 in community.
 
+!(http://i.imgur.com/fe3niPT.png)
+
 ## Install
 Unfortunately, program don't support Python 2. It's tested only in Python 3.
 
