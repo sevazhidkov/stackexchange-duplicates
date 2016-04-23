@@ -17,7 +17,7 @@ pip install -r requirements.txt # could be "pip3 install -r requirements.txt"
 ```
 
 ## Run
-You need to run 'start.py' with special parameters.
+You need to run ```start.py``` with special parameters.
 
 Example:
 ```bash
