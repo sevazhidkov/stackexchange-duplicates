@@ -2,7 +2,7 @@
 This is small util that parses dump from one of StackExchange websites and
 finds questions with biggest amout of duplicates.
 
-It can be useful in analytics: such questions define most interesting top_duplicated_posts
+It can be useful in analytics: such questions define most interesting topics
 in community.
 
 ![Result image](http://i.imgur.com/fe3niPT.png)
